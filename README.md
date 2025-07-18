@@ -9,4 +9,5 @@ Built in GNU NANO, it is a very simple, lightweight command-line tool to help in
 
 The installer directly downloads Easy-APT to your computer.
 
+
 <img width="131" height="107" alt="image" src="https://github.com/user-attachments/assets/b788d2eb-5105-430a-bc62-c6ee28a3a680" />

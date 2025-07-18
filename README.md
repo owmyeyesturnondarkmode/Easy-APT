@@ -12,5 +12,5 @@ The installer directly downloads Easy-APT to your computer.
 
 <img width="131" height="107" alt="image" src="https://github.com/user-attachments/assets/b788d2eb-5105-430a-bc62-c6ee28a3a680" />
 
-**IMPORTANT NOTE**
+<ins>**IMPORTANT NOTE**</ins>
 You may have to run `$ chmod +x <Easyaptinstaller.sh OR Easyapt.sh>` if you encounter the `Permission denied` error. If that still dosen't work, try running it with `$ ./<Easyapt.sh OR Easyaptinstaller.sh>` if you aren't already.

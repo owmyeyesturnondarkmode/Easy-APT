@@ -6,3 +6,5 @@ A tool for installing apps with APT quickly and easily.
 Built in GNU NANO, it is a very simple, lightweight command-line tool to help install programs for any operating system that uses the APT package manager. It uses the BASH command select, which I find VERY useful as an amatuer programmer; beause unlike windows batch where you have to code your own menus, this just generates it for you. And I don't like repeating myself, but it is VERY useful.
 
 <img width="797" height="24" alt="image" src="https://github.com/user-attachments/assets/3588182f-57c0-4e26-81fb-ae1601981f4e" />
+
+The installer directly downloads Easy-APT to your computer.

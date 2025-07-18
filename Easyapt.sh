@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo "╔════════════╗"
+echo "╔════════1.0.0"
 echo "║  EASY APT  ║"
 echo "╚════════════╝"
 echo ""

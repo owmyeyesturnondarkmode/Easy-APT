@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Easy APT
 Comment=A tool for installing apps with APT quickly and easily.
-Exec=/usr/bin/main.sh
+Exec=/usr/bin/easyapt.sh
 Icon=easyapt.png
 Terminal=true
 Type=Application

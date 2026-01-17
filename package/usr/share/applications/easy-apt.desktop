@@ -2,7 +2,7 @@
 Name=Easy APT
 Comment=A tool for installing apps with APT quickly and easily.
 Exec=/usr/bin/main.sh
-Icon=easy-apt.png
+Icon=easyapt.png
 Terminal=true
 Type=Application
 Categories=Utility;

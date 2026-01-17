@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Easy APT
+Comment=A tool for installing apps with APT quickly and easily.
+Exec=/usr/bin/main.py
+Icon=icon.png
+Terminal=true
+Type=Application
+Categories=Utility;

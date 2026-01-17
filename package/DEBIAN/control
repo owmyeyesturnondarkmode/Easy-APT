@@ -1,0 +1,6 @@
+Package: easy-apt
+Version: 1.0.0
+Depends: bash
+Architecture: all
+Maintainer: owmyeyesturnondarkmode <www.github.com/owmyeyesturnondarkmode>
+Description: A tool for installing apps with APT quickly and easily.
